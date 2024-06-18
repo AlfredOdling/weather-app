@@ -1,0 +1,31 @@
+.menuItem {
+  display: block !important;
+  width: 100% !important;
+  padding-bottom: 5px !important;
+  color: var(--mantine-color-gray-7) !important;
+
+  :hover {
+    background-color: var(--mantine-color-gray-3) !important;
+    color: var(--mantine-color-black) !important;
+    transition: all 0.25s ease-in-out;
+  }
+}
+
+.submenuItem {
+  display: block !important;
+  padding-bottom: 5px !important;
+  color: var(--mantine-color-gray-7) !important;
+
+  margin-left: var(--mantine-spacing-xl) !important;
+  border-left: 1px solid var(--mantine-color-gray-3) !important;
+
+  :hover {
+    background-color: var(--mantine-color-gray-3) !important;
+    color: var(--mantine-color-black) !important;
+    transition: all 0.25s ease-in-out;
+  }
+}
+
+.chevron {
+  transition: transform 200ms ease !important;
+}

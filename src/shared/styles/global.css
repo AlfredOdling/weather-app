@@ -1,0 +1,16 @@
+.mantine-Grid-root {
+  overflow: visible;
+}
+
+.mantine-Drawer-body {
+  padding: 0;
+}
+
+.mantine-AppShell-main {
+  /* background-color: #fafafa; */
+  background-image: linear-gradient(
+    336deg,
+    rgb(238, 248, 255) 20%,
+    rgb(248, 250, 247) 74%
+  );
+}
