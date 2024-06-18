@@ -54,8 +54,7 @@ export const Enter = () => {
           padding: '30px 40px',
           borderRadius: 10,
           width: 400,
-          background:
-            'radial-gradient(105.1% 50% at 52.400000000000006% 100%, rgba(97, 114, 243, .2) 0%, rgb(255 255 255) 100%)',
+          background: 'white',
           border: '0.5px solid #e1e1e1',
         }}
       >
